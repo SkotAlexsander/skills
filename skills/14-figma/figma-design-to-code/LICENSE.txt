@@ -1,0 +1,21 @@
+Figma Developer Terms
+=====================
+
+Estas skills vêm de https://github.com/figma/mcp-server-guide — repositório
+OFICIAL da Figma (mantido por engenheiros da Figma; último commit conferido em
+06/08/2026, "Skills v2.2.91").
+
+O repositório NÃO traz um arquivo de licença de código aberto. Em vez disso, o
+README declara, textualmente:
+
+    "By using the Figma MCP server and the related resources (including these
+     skills), you agree to the Figma Developer Terms. These skills are currently
+     available as a Beta feature."
+
+Termos: https://www.figma.com/legal/developer-terms/
+
+Ou seja: os direitos de uso ESTÃO definidos — só não por uma licença OSI. Foi por
+isso que a regra "sem licença na raiz = reprovado" abriu exceção aqui, e a exceção
+está registrada em 00-CATALOGO-E-AUDITORIA.md.
+
+Recurso em Beta: a Figma pode mudar os termos e a API. Revalidar ao atualizar.
